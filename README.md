@@ -24,7 +24,7 @@ You need PostgreSQL (I used pgAdmin) and Java JDK 11 or newer.
 
 Compile and run:
 
-Run these from the main project folder (the one with src and lib in it).
+Run these from the main project folder.
 
 Windows:
 javac -cp "lib/*" -d out src/StudentApp.java
